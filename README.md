@@ -42,8 +42,6 @@ Once the encoder understands baseline brain anatomy, its weights are transferred
 
     * **Enhancing Tumor (ET):** Enhancing core only.
 
-* **Metrics:** 
-
 ## Results
 
 The model was evaluated on unseen test volumes from the dataset. 
